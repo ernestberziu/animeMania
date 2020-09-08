@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "519694063136",
+    "firebase_url": "https://animeshqip-443e9.firebaseio.com",
+    "project_id": "animeshqip-443e9",
+    "storage_bucket": "animeshqip-443e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519694063136:android:e7574bfa96e6919b6e8e45",
+        "android_client_info": {
+          "package_name": "com.threel.animeshqip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519694063136-eaanc0ph31kasfpl0es5k5467qik09n4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.threel.animeshqip",
+            "certificate_hash": "61ff1e847759d15a6bfdb2d6b27430c6e4a28a7b"
+          }
+        },
+        {
+          "client_id": "519694063136-of53umsvmti1v3v36adr0cknc3qnn1fe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI6qJPiPJyhkh-lSC3SAp0r8Fd-8NxxUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519694063136-of53umsvmti1v3v36adr0cknc3qnn1fe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
